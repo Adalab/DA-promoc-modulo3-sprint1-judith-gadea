@@ -22,7 +22,7 @@ Se realiza el análisis de los datos donde se predice el valor de datos de varia
  Contiene todos los ficheros utilizados en el desarrollo del estudio, análisis y preparación de nuestro modelo de Regresión lineal mediante el cual queremos predecir los quilates de los diamantes.
 
 
-     *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL/datos)
+   *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL/datos)
      
      Se encuentran los archivos generados.
    
@@ -39,7 +39,7 @@ comportamiento de la misma a través de las variables independientes.
 
  Contiene todos los ficheros utilizados en el desarrollo del estudio, análisis y preparación de nuestro modelo de Regresión logística en el cual queremos predecir, el porcentaje de las personas que hiceron clic en el anuncio o no.
 
-      *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog/datos)
+   *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog/datos)
       
       Se encuentran los archivos generados.
 
@@ -61,7 +61,7 @@ Integrantes
 
 [Gadea Autric](https://github.com/gadeatric/gadeatric)
 
-[Judith Blanco](https://github.com/Jumblan?tab=repositories)
+[Judith Blanco](https://github.com/Jumblan/Jumblan)
 
 
 
