@@ -1,9 +1,12 @@
 # DA-promoc-modulo3-sprint1-judith-gadea
-Repositorio con los trabajos de Gadea Autric y Judith Blanco.
+
+***Repositorio con los trabajos de Gadea Autric y Judith Blanco***
 
 
-## **Modulo 3: Machine Learning**
+
+## Modulo 3: Machine Learning
 --------------------------------------------------
+
 
 *[Regresión lineal](#Regresión-lineal)
 
@@ -41,7 +44,7 @@ comportamiento de la misma a través de las variables independientes.
 
    *  [Carpeta RLog](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog)
 
- Contiene todos los ficheros utilizados en el desarrollo del estudio, análisis y preparación de nuestro modelo de Regresión logística en el cual queremos predecir, el porcentaje de las personas que hiceron clic en el anuncio o no.
+ Contiene todos los ficheros utilizados en el desarrollo del estudio, análisis y preparación de nuestro modelo de Regresión logística mediante el cual queremos predecir, el porcentaje de  personas que hiceron click en un anuncio o no.
 
    *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog/datos)
       
