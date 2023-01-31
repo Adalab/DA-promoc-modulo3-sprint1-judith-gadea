@@ -2,47 +2,17 @@
 Repositorio con los trabajos de Gadea Autric y Judith Blanco.
 
 
+### **Modulo 3: Machine Learning** 
+
 ##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Regresión lineal](#Regresión-lineal)
+  [Regresión lineal librería](#Regresión-lineal-libreria)
+*[Regresión logistica](#Regresión-logistica)
+  [Regresión logistica librería](#Regresión-logistica'libreria)
+*[Decisión Tree y Ramdon Forest](#Decisión'-Tree-y-Ramdon-Forest)
+  [Decisión Tree y Ramdon Forest librería](#Decisión-Tree-y-Ramdon-Forest-librería)
 
-*[Insignias](#insignias)
-
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-proyecto)
-
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### **Modulo 3: Machine Learning** 
 
 --------------------------
  #### **Regresión lineal**  
