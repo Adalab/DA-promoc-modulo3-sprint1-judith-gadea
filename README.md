@@ -4,8 +4,7 @@ Repositorio con los trabajos de Gadea Autric y Judith Blanco.
 ### **Modulo 3: Machine Learning** 
 
 --------------------------
- #### **Regresión lineal**  \## 📁 Acceso al proyecto 
- **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+ #### **Regresión lineal**  \##RL 
 ---------------------------
 Es un tipo de aprendizaje automático supervisado. 
 Se realiza el análisis de los datos donde se predice el valor de datos de variables continuas, mediante el estudio del 
