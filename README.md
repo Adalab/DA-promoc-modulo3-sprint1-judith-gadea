@@ -21,7 +21,7 @@
  ---------------------------
  
 Es un tipo de aprendizaje automático supervisado. 
-Se realiza el análisis de los datos donde se predice el valor de datos de variables continuas, mediante el estudio del comportamiento de la misma a través de las variables independientes. 
+Se realiza el análisis de los datos para la predición del valor de datos de variables continuas, mediante el estudio del comportamiento de la misma a través de las variables independientes. 
 
    *  [Carpeta RL](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL)
 
@@ -39,7 +39,7 @@ Se realiza el análisis de los datos donde se predice el valor de datos de varia
 ---------------------------
   
  Es un tipo de aprendizaje automático supervisado. 
-Se realiza el análisis de los datos donde se predice el valor de datos de variables discretas, dicotómicas, mediante el estudio del 
+Se realiza el análisis de los datos para la predición del valor de datos de variables variables discretas, dicotómicas, mediante el estudio del 
 comportamiento de la misma a través de las variables independientes.
 
    *  [Carpeta RLog](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog)
