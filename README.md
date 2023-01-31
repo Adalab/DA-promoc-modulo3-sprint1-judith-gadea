@@ -68,7 +68,7 @@ Integrantes
 
 [Gadea Autric](https://github.com/gadeatric/gadeatric)
 
-[Judith Blanco](https://github.com/Jumblan/Jumblan)
+[Judith Blanco](https://github.com/Jumblan)
 
 
 
