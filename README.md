@@ -4,7 +4,8 @@ Repositorio con los trabajos de Gadea Autric y Judith Blanco.
 ### **Modulo 3: Machine Learning** 
 
 --------------------------
- #### **Regresión lineal**  \##RL 
+ #### **Regresión lineal**  
+ \##https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL 
 ---------------------------
 Es un tipo de aprendizaje automático supervisado. 
 Se realiza el análisis de los datos donde se predice el valor de datos de variables continuas, mediante el estudio del 
