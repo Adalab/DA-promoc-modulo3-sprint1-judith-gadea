@@ -54,7 +54,7 @@
  
  
 ---------------------------
-### Regresión logistica
+### Regresión logística
 ---------------------------
   
   *  [Carpeta RLog](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog)
