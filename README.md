@@ -24,15 +24,9 @@
    *  [Carpeta RL](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL)
 
  Contiene todos los ficheros utilizados en el desarrollo del estudio, análisis y preparación de nuestro modelo de Regresión lineal mediante el cual queremos predecir los quilates de un conjunto de diamantes.
+ 
 
-
-   *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL/datos)
-     
-   Se encuentran los archivos generados.
- 
- 
- 
-***El estudio, análisis y preparación de nuestro modelo de regresión lineal se ha estructurado de la siguienta manera:***
+***La creación de nuestro modelo de regresión lineal se ha estructurado de la siguienta manera:***
 
     1 EDA (Exploración y limpieza de los datos)
     1 Test Estadísticos
@@ -48,6 +42,14 @@
     11 Random Forest
 
  
+ 
+   *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL/datos)
+     
+   Se encuentran los archivos generados.
+ 
+ 
+ 
+
    
    
    
@@ -61,19 +63,24 @@
 
  Contiene todos los ficheros utilizados en el desarrollo del estudio, análisis y preparación de nuestro modelo de Regresión logística mediante el cual queremos predecir, el porcentaje de  personas que hiceron click en un anuncio o no.
 
-   *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog/datos)
-      
-   Se encuentran los archivos generados.
 
-
-***El estudio, análisis y preparación de nuestro modelo de regresión logistica se ha estructurado de la siguienta manera:***
+***La creación de nuestro modelo de regresión logística se ha estructurado de la siguienta manera:***
 
     1 EDA (Exploración y limpieza de los datos)
     2 Preparación de Datos
     3 Ajuste
     4 Métricas
     5 Decisión Tree
-    6 Random Forest
+    6 Random Forest 
+    
+    
+    
+   *  [Carpeta Datos](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RLog/datos)
+      
+   Se encuentran los archivos generados.
+
+
+
   
  
  
