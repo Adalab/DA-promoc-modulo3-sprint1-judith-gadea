@@ -106,20 +106,23 @@
 ### Librerías
 --------------------------------
 
-    # Tratamiento de datos
+    Tratamiento de datos:
+    
     import numpy as np
     import pandas as pd
     from tqdm import tqdm
 
     
-    # Representación de Gráficos
+    Representación de Gráficos:
+    
     import matplotlib.pyplot as plt
     import seaborn as sns
     import statsmodels.api as sm
     plt.rcParams["figure.figsize"] = (15,15)
     
 
-    # Test estadisticos
+    Test estadisticos:
+    
     researchpy 
     scipy import stats
     statsmodels.api as sm
@@ -130,7 +133,8 @@
     from statsmodels.formula.api import ols
     from sklearn.preprocessing import StandardScaler
     
-     # Transformación, modelado y evaluación de los datos
+    Transformación, modelado y evaluación de los datos:
+    
     from sklearn.preprocessing import MinMaxScaler
     from sklearn.preprocessing import StandardScaler
     from sklearn.model_selection import train_test_split
@@ -144,16 +148,19 @@
     from sklearn.model_selection import cross_validate
     from sklearn import metrics
 
-    # Encoding
+    Encoding:
+    
     from sklearn.preprocessing import LabelEncoder 
     from sklearn.preprocessing import OneHotEncoder  
     
-    # Gestión datos desbalanceados
+    Gestión datos desbalanceados:
+    
     from imblearn.under_sampling import RandomUnderSampler
     from imblearn.over_sampling import RandomOverSampler
     from imblearn.combine import SMOTETomek
 
-    # Configuración warnings
+    Configuración warnings:
+    
     import warnings
     warnings.filterwarnings('once')
  
