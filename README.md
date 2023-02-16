@@ -1,6 +1,6 @@
 # DA-promoc-modulo3-sprint1-judith-gadea
 
-***Repositorio con los trabajos de Gadea Autric y Judith Blanco***
+***Repositorio con los trabajos de Judith Blanco y Gadea Autric***
 
 
 ----------------------------
@@ -169,9 +169,10 @@
 Integrantes
 ----------------
 
-[Gadea Autric](https://github.com/gadeatric/gadeatric)
 
 [Judith Blanco](https://github.com/Jumblan)
+
+[Gadea Autric](https://github.com/gadeatric/gadeatric)
 
 
 
